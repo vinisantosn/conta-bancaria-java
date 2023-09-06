@@ -40,7 +40,7 @@ git clone https://github.com/vinisantosn/conta-bancaria-java
 ## 🖼️ Imagens
 |  Resultado  |
 |  ---  |
-|()|
+|![](https://github.com/vinisantosn/conta-bancaria-java/blob/main/img-readme/resultado.png)|
 
 ## 🙋🏾‍♂️ Contribuições
 
